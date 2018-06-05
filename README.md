@@ -6,3 +6,6 @@ I think it will be very helpful for others to have a running example to learn of
 
 # TGCA-Survival-Analysis
 # TGCA-Survival-Analysis
+
+1. First run R script to preprocess the data.
+2. Then use python script to perform the survival analysis.
